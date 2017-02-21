@@ -25,7 +25,7 @@
     <project path="hardware/atheros/wlan" name="LineageOS/android_hardware_atheros_wlan" revision="cm-13.0" />
     
      <!-- TWRP -->
-    <project path="bootable/recovery-omni" name="omnirom/android_bootable_recovery" revision="android-7.1" />
+    <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-7.1" />
     
     <!-- PhilZ -->
     <project path="bootable/recovery-philz" name="PhilZ-cwm6/philz_touch_cwm6" revision="cm-12.0" />
