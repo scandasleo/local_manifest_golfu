@@ -18,8 +18,8 @@
 
     <!-- golfu -->
     <project path="device/htc/golfu" name="scandasleo/android_device_htc_golfu" revision="cm-14.1" />
-    <project path="kernel/htc/golfu" name="scandasleo/android_vendor_htc_golfu" revision="cm-12.0" />
-    <project path="vendor/htc/golfu" name="scandasleo/android_kernel_htc_golfu" revision="cm-14.1" />
+    <project path="kernel/htc/golfu" name="scandasleo/android_kernel_htc_golfu" revision="cm-14.1" />
+    <project path="vendor/htc/golfu" name="scandasleo/android_vendor_htc_golfu" revision="cm-12.0" />
 
     <!-- wifi -->
     <project path="hardware/atheros/wlan" name="LineageOS/android_hardware_atheros_wlan" revision="cm-13.0" />
